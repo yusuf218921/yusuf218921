@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf218921&show_icons=true&locale=en&layout=compact" alt="yusuf218921" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuf218921&show_icons=true&locale=en" alt="yusuf218921" /></p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf218921&" alt="GitHub Streak" /></a>
