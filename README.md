@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate backend developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **Asp.Net Web Api**
+- 🌱 I’m currently learning **JAVA Spring Boot**
 
 - 📫 How to reach me **yusufsonmez951@gmail.com**
 
